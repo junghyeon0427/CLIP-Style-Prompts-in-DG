@@ -13,3 +13,6 @@ Domain Generalization in Semantic Segmentation using CLIP Style Prompts
 | PØDA (Cityscapes → Snow)        | 64.31      | 21.38  | 40.21  | **43.69** | 50.43  |
 | PØDA (Cityscapes → Fog)         | 63.25      | 22.44  | 38.04  | 41.31  | **48.44** |
 | **Ours (DG)**                   | **64.78**  | 23.26  | **43.60** | **44.69** | **52.44** |
+
+## Semantic Map Result
+![Screenshot 2024-07-12 at 00 31 43](https://github.com/junghyeon0427/KCC2024/assets/77001598/7dac9291-7c8e-4b6d-a814-59f185bc6be7)
