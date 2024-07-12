@@ -5,7 +5,7 @@ Domain Generalization in Semantic Segmentation using CLIP Style Prompts
 ## Method  
 ![image](https://github.com/junghyeon0427/KCC2024/assets/77001598/e47575dd-9369-42ec-86bf-45c79f68397c)
 
-## Experimental Results
+## Experimental Results (mIoU)
 | Method                          | Cityscapes | Night  | Rain   | Snow   | Fog    |
 |---------------------------------|------------|--------|--------|--------|--------|
 | PØDA (Cityscapes → Night)       | 63.85      | <ins>**24.58**</ins>  | 41.54 | 44.34 | 50.93  |
