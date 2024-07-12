@@ -15,4 +15,4 @@ Domain Generalization in Semantic Segmentation using CLIP Style Prompts
 | **Ours (DG)**                   | **64.78**  | 23.26  | **43.60** | **44.69** | **52.44** |
 
 ## Semantic Map Result
-![Screenshot 2024-07-12 at 00 31 43](https://github.com/junghyeon0427/KCC2024/assets/77001598/7dac9291-7c8e-4b6d-a814-59f185bc6be7)
+<img width="1116" alt="image" src="https://github.com/user-attachments/assets/cb1da318-424d-4f94-ba65-0fa80d258402">
