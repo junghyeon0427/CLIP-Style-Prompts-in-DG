@@ -1,6 +1,8 @@
-# KCC2024
+# CLIP Style Prompts in DG
 Domain Generalization in Semantic Segmentation using CLIP Style Prompts   
-**Junghyeon Seo, Sungsik Kim, Seungheon Song, Jaekoo Lee, Korea Computer Congress 2024 (KCC 2024)**  
+**Junghyeon Seo**, Sungsik Kim, Seungheon Song, Jaekoo Lee, Korea Computer Congress 2024 (KCC 2024)  
+
+[Paper Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862149)  
 
 ## Method  
 ![image](https://github.com/junghyeon0427/KCC2024/assets/77001598/e47575dd-9369-42ec-86bf-45c79f68397c)
