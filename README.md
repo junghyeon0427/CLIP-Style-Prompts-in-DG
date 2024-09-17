@@ -18,3 +18,7 @@ Domain Generalization in Semantic Segmentation using CLIP Style Prompts
 
 ## Semantic Map Result
 <img width="1116" alt="image" src="https://github.com/user-attachments/assets/cb1da318-424d-4f94-ba65-0fa80d258402">
+
+## Reference Paper
+We refer on the following paper  
+[PromptStyler (ICCV 2023)](https://arxiv.org/abs/2307.15199), [PØDA (ICCV 2023)](https://arxiv.org/abs/2212.03241)
